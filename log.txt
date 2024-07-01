@@ -1,0 +1,364 @@
+Kafka:
+
+2023/07/03 15:20:34.720176 Created Producer rdkafka#producer-1
+2023/07/03 15:20:34.785829 Sended message #0 (leadId: 634428, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:34.836521 Sended message #1 (leadId: 609937, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:34.836804 Sended message #2 (leadId: 628811, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:34.888999 Sended message #3 (leadId: 614216, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:34.933152 Sended message #4 (leadId: 618329, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:34.933409 Sended message #5 (leadId: 657674, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:34.987513 Sended message #6 (leadId: 618253, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:35.035522 Sended message #7 (leadId: 602613, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:35.035779 Sended message #8 (leadId: 618447, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:35.086396 Sended message #9 (leadId: 632257, currentStatus: close) to topic "test-topic"
+2023/07/03 15:20:35.139614 Sended message #10 (leadId: 693997, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:35.139879 Sended message #11 (leadId: 698122, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:35.191602 Sended message #12 (leadId: 669063, currentStatus: active) to topic "test-topic"
+2023/07/03 15:20:35.236527 Sended message #13 (leadId: 661744, currentStatus: close) to topic "test-topic"
+2023/07/03 15:20:35.236783 Sended message #14 (leadId: 603887, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:35.287597 Sended message #15 (leadId: 633500, currentStatus: close) to topic "test-topic"
+2023/07/03 15:20:35.333228 Sended message #16 (leadId: 678574, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:35.333493 Sended message #17 (leadId: 631589, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:35.387596 Sended message #18 (leadId: 609301, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:35.441650 Sended message #19 (leadId: 614046, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:35.441917 Sended message #20 (leadId: 669444, currentStatus: close) to topic "test-topic"
+2023/07/03 15:20:35.484831 Sended message #21 (leadId: 601175, currentStatus: active) to topic "test-topic"
+2023/07/03 15:20:35.533247 Sended message #22 (leadId: 664745, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:35.533506 Sended message #23 (leadId: 654781, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:35.589090 Sended message #24 (leadId: 691285, currentStatus: active) to topic "test-topic"
+2023/07/03 15:20:35.636255 Sended message #25 (leadId: 667008, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:35.636552 Sended message #26 (leadId: 642795, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:35.686119 Sended message #27 (leadId: 673705, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:35.733696 Sended message #28 (leadId: 639773, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:35.733962 Sended message #29 (leadId: 623330, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:35.785935 Sended message #30 (leadId: 631528, currentStatus: close) to topic "test-topic"
+2023/07/03 15:20:35.835033 Sended message #31 (leadId: 611553, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:35.835321 Sended message #32 (leadId: 630015, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:35.861487 Delivered message #0 (leadId: 634428, currentStatus: to issue) to topic "test-topic" [0] at offset 1615
+2023/07/03 15:20:35.861521 Delivered message #1 (leadId: 609937, currentStatus: to issue) to topic "test-topic" [0] at offset 1616
+2023/07/03 15:20:35.861537 Delivered message #2 (leadId: 628811, currentStatus: rejected) to topic "test-topic" [0] at offset 1617
+2023/07/03 15:20:35.861554 Delivered message #3 (leadId: 614216, currentStatus: pending) to topic "test-topic" [0] at offset 1618
+2023/07/03 15:20:35.861568 Delivered message #4 (leadId: 618329, currentStatus: rejected) to topic "test-topic" [0] at offset 1619
+2023/07/03 15:20:35.861580 Delivered message #5 (leadId: 657674, currentStatus: approved) to topic "test-topic" [0] at offset 1620
+2023/07/03 15:20:35.861592 Delivered message #6 (leadId: 618253, currentStatus: pending) to topic "test-topic" [0] at offset 1621
+2023/07/03 15:20:35.861605 Delivered message #7 (leadId: 602613, currentStatus: pending) to topic "test-topic" [0] at offset 1622
+2023/07/03 15:20:35.861626 Delivered message #8 (leadId: 618447, currentStatus: to issue) to topic "test-topic" [0] at offset 1623
+2023/07/03 15:20:35.861641 Delivered message #9 (leadId: 632257, currentStatus: close) to topic "test-topic" [0] at offset 1624
+2023/07/03 15:20:35.861653 Delivered message #10 (leadId: 693997, currentStatus: to issue) to topic "test-topic" [0] at offset 1625
+2023/07/03 15:20:35.861664 Delivered message #11 (leadId: 698122, currentStatus: rejected) to topic "test-topic" [0] at offset 1626
+2023/07/03 15:20:35.861675 Delivered message #12 (leadId: 669063, currentStatus: active) to topic "test-topic" [0] at offset 1627
+2023/07/03 15:20:35.861719 Delivered message #13 (leadId: 661744, currentStatus: close) to topic "test-topic" [0] at offset 1628
+2023/07/03 15:20:35.861735 Delivered message #14 (leadId: 603887, currentStatus: to issue) to topic "test-topic" [0] at offset 1629
+2023/07/03 15:20:35.861747 Delivered message #15 (leadId: 633500, currentStatus: close) to topic "test-topic" [0] at offset 1630
+2023/07/03 15:20:35.861758 Delivered message #16 (leadId: 678574, currentStatus: approved) to topic "test-topic" [0] at offset 1631
+2023/07/03 15:20:35.861770 Delivered message #17 (leadId: 631589, currentStatus: rejected) to topic "test-topic" [0] at offset 1632
+2023/07/03 15:20:35.861781 Delivered message #18 (leadId: 609301, currentStatus: rejected) to topic "test-topic" [0] at offset 1633
+2023/07/03 15:20:35.861792 Delivered message #19 (leadId: 614046, currentStatus: approved) to topic "test-topic" [0] at offset 1634
+2023/07/03 15:20:35.861809 Delivered message #20 (leadId: 669444, currentStatus: close) to topic "test-topic" [0] at offset 1635
+2023/07/03 15:20:35.861823 Delivered message #21 (leadId: 601175, currentStatus: active) to topic "test-topic" [0] at offset 1636
+2023/07/03 15:20:35.861835 Delivered message #22 (leadId: 664745, currentStatus: approved) to topic "test-topic" [0] at offset 1637
+2023/07/03 15:20:35.861847 Delivered message #23 (leadId: 654781, currentStatus: to issue) to topic "test-topic" [0] at offset 1638
+2023/07/03 15:20:35.861858 Delivered message #24 (leadId: 691285, currentStatus: active) to topic "test-topic" [0] at offset 1639
+2023/07/03 15:20:35.861872 Delivered message #25 (leadId: 667008, currentStatus: rejected) to topic "test-topic" [0] at offset 1640
+2023/07/03 15:20:35.861883 Delivered message #26 (leadId: 642795, currentStatus: approved) to topic "test-topic" [0] at offset 1641
+2023/07/03 15:20:35.861895 Delivered message #27 (leadId: 673705, currentStatus: to issue) to topic "test-topic" [0] at offset 1642
+2023/07/03 15:20:35.861906 Delivered message #28 (leadId: 639773, currentStatus: approved) to topic "test-topic" [0] at offset 1643
+2023/07/03 15:20:35.861917 Delivered message #29 (leadId: 623330, currentStatus: rejected) to topic "test-topic" [0] at offset 1644
+2023/07/03 15:20:35.865521 Delivered message #30 (leadId: 631528, currentStatus: close) to topic "test-topic" [0] at offset 1645
+2023/07/03 15:20:35.866366 Delivered message #31 (leadId: 611553, currentStatus: to issue) to topic "test-topic" [0] at offset 1646
+2023/07/03 15:20:35.866423 Delivered message #32 (leadId: 630015, currentStatus: to issue) to topic "test-topic" [0] at offset 1647
+2023/07/03 15:20:35.888816 Sended message #33 (leadId: 640821, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:35.932399 Delivered message #33 (leadId: 640821, currentStatus: approved) to topic "test-topic" [0] at offset 1648
+2023/07/03 15:20:35.934955 Sended message #34 (leadId: 609298, currentStatus: active) to topic "test-topic"
+2023/07/03 15:20:35.935228 Sended message #35 (leadId: 698254, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:35.987326 Sended message #36 (leadId: 681277, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:36.007236 Delivered message #34 (leadId: 609298, currentStatus: active) to topic "test-topic" [0] at offset 1649
+2023/07/03 15:20:36.007327 Delivered message #35 (leadId: 698254, currentStatus: approved) to topic "test-topic" [0] at offset 1650
+2023/07/03 15:20:36.019651 Delivered message #36 (leadId: 681277, currentStatus: pending) to topic "test-topic" [0] at offset 1651
+2023/07/03 15:20:36.039708 Sended message #37 (leadId: 696135, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:36.039973 Sended message #38 (leadId: 641833, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:36.086133 Sended message #39 (leadId: 637161, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:36.087315 Delivered message #37 (leadId: 696135, currentStatus: approved) to topic "test-topic" [0] at offset 1652
+2023/07/03 15:20:36.087350 Delivered message #38 (leadId: 641833, currentStatus: rejected) to topic "test-topic" [0] at offset 1653
+2023/07/03 15:20:36.108283 Delivered message #39 (leadId: 637161, currentStatus: pending) to topic "test-topic" [0] at offset 1654
+2023/07/03 15:20:36.133678 Sended message #40 (leadId: 695142, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:36.133942 Sended message #41 (leadId: 690032, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:36.169529 Delivered message #40 (leadId: 695142, currentStatus: approved) to topic "test-topic" [0] at offset 1655
+2023/07/03 15:20:36.169579 Delivered message #41 (leadId: 690032, currentStatus: approved) to topic "test-topic" [0] at offset 1656
+2023/07/03 15:20:36.187596 Sended message #42 (leadId: 638372, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:36.207998 Delivered message #42 (leadId: 638372, currentStatus: to issue) to topic "test-topic" [0] at offset 1657
+2023/07/03 15:20:36.243659 Sended message #43 (leadId: 644057, currentStatus: close) to topic "test-topic"
+2023/07/03 15:20:36.243947 Sended message #44 (leadId: 679729, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:36.271279 Delivered message #43 (leadId: 644057, currentStatus: close) to topic "test-topic" [0] at offset 1658
+2023/07/03 15:20:36.271322 Delivered message #44 (leadId: 679729, currentStatus: approved) to topic "test-topic" [0] at offset 1659
+2023/07/03 15:20:36.286271 Sended message #45 (leadId: 609672, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:36.309988 Delivered message #45 (leadId: 609672, currentStatus: rejected) to topic "test-topic" [0] at offset 1660
+2023/07/03 15:20:36.339619 Sended message #46 (leadId: 621030, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:36.339890 Sended message #47 (leadId: 630817, currentStatus: active) to topic "test-topic"
+2023/07/03 15:20:36.383510 Sended message #48 (leadId: 667144, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:36.433151 Sended message #49 (leadId: 609060, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:36.433404 Sended message #50 (leadId: 676365, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:36.454487 Delivered message #46 (leadId: 621030, currentStatus: rejected) to topic "test-topic" [0] at offset 1661
+2023/07/03 15:20:36.454531 Delivered message #47 (leadId: 630817, currentStatus: active) to topic "test-topic" [0] at offset 1662
+2023/07/03 15:20:36.457151 Delivered message #48 (leadId: 667144, currentStatus: pending) to topic "test-topic" [0] at offset 1663
+2023/07/03 15:20:36.471157 Delivered message #49 (leadId: 609060, currentStatus: rejected) to topic "test-topic" [0] at offset 1664
+2023/07/03 15:20:36.471208 Delivered message #50 (leadId: 676365, currentStatus: to issue) to topic "test-topic" [0] at offset 1665
+2023/07/03 15:20:36.488907 Sended message #51 (leadId: 601716, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:36.536029 Sended message #52 (leadId: 662700, currentStatus: close) to topic "test-topic"
+2023/07/03 15:20:36.536283 Sended message #53 (leadId: 624358, currentStatus: close) to topic "test-topic"
+2023/07/03 15:20:36.561693 Delivered message #51 (leadId: 601716, currentStatus: pending) to topic "test-topic" [0] at offset 1666
+2023/07/03 15:20:36.565438 Delivered message #52 (leadId: 662700, currentStatus: close) to topic "test-topic" [0] at offset 1667
+2023/07/03 15:20:36.567523 Delivered message #53 (leadId: 624358, currentStatus: close) to topic "test-topic" [0] at offset 1668
+2023/07/03 15:20:36.586262 Sended message #54 (leadId: 697412, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:36.639496 Sended message #55 (leadId: 681270, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:36.639751 Sended message #56 (leadId: 660903, currentStatus: active) to topic "test-topic"
+2023/07/03 15:20:36.674248 Delivered message #54 (leadId: 697412, currentStatus: pending) to topic "test-topic" [0] at offset 1669
+2023/07/03 15:20:36.681977 Delivered message #55 (leadId: 681270, currentStatus: pending) to topic "test-topic" [0] at offset 1670
+2023/07/03 15:20:36.682010 Delivered message #56 (leadId: 660903, currentStatus: active) to topic "test-topic" [0] at offset 1671
+2023/07/03 15:20:36.683650 Sended message #57 (leadId: 662642, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:36.728514 Delivered message #57 (leadId: 662642, currentStatus: pending) to topic "test-topic" [0] at offset 1672
+2023/07/03 15:20:36.734497 Sended message #58 (leadId: 643967, currentStatus: active) to topic "test-topic"
+2023/07/03 15:20:36.734748 Sended message #59 (leadId: 629780, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:36.760537 Delivered message #58 (leadId: 643967, currentStatus: active) to topic "test-topic" [0] at offset 1673
+2023/07/03 15:20:36.760569 Delivered message #59 (leadId: 629780, currentStatus: to issue) to topic "test-topic" [0] at offset 1674
+2023/07/03 15:20:36.789027 Sended message #60 (leadId: 604409, currentStatus: close) to topic "test-topic"
+2023/07/03 15:20:36.810609 Delivered message #60 (leadId: 604409, currentStatus: close) to topic "test-topic" [0] at offset 1675
+2023/07/03 15:20:36.833823 Sended message #61 (leadId: 642673, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:36.834077 Sended message #62 (leadId: 696559, currentStatus: active) to topic "test-topic"
+2023/07/03 15:20:36.856788 Delivered message #61 (leadId: 642673, currentStatus: rejected) to topic "test-topic" [0] at offset 1676
+2023/07/03 15:20:36.856831 Delivered message #62 (leadId: 696559, currentStatus: active) to topic "test-topic" [0] at offset 1677
+2023/07/03 15:20:36.883582 Sended message #63 (leadId: 684375, currentStatus: rejected) to topic "test-topic"
+2023/07/03 15:20:36.915343 Delivered message #63 (leadId: 684375, currentStatus: rejected) to topic "test-topic" [0] at offset 1678
+2023/07/03 15:20:36.939524 Sended message #64 (leadId: 644244, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:36.939778 Sended message #65 (leadId: 654335, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:36.968296 Delivered message #64 (leadId: 644244, currentStatus: to issue) to topic "test-topic" [0] at offset 1679
+2023/07/03 15:20:36.968327 Delivered message #65 (leadId: 654335, currentStatus: approved) to topic "test-topic" [0] at offset 1680
+2023/07/03 15:20:36.984050 Sended message #66 (leadId: 643841, currentStatus: approved) to topic "test-topic"
+^C2023/07/03 15:20:37.032979 Sended message #67 (leadId: 637630, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:37.038269 Sended message #68 (leadId: 693210, currentStatus: to issue) to topic "test-topic"
+2023/07/03 15:20:37.052799 Delivered message #66 (leadId: 643841, currentStatus: approved) to topic "test-topic" [0] at offset 1681
+2023/07/03 15:20:37.059476 Delivered message #67 (leadId: 637630, currentStatus: pending) to topic "test-topic" [0] at offset 1682
+2023/07/03 15:20:37.059542 Delivered message #68 (leadId: 693210, currentStatus: to issue) to topic "test-topic" [0] at offset 1683
+2023/07/03 15:20:37.083000 Sended message #69 (leadId: 654347, currentStatus: pending) to topic "test-topic"
+2023/07/03 15:20:37.112985 Delivered message #69 (leadId: 654347, currentStatus: pending) to topic "test-topic" [0] at offset 1684
+2023/07/03 15:20:37.133336 Sended message #70 (leadId: 673657, currentStatus: active) to topic "test-topic"
+2023/07/03 15:20:37.133591 Sended message #71 (leadId: 664282, currentStatus: approved) to topic "test-topic"
+2023/07/03 15:20:37.163204 Delivered message #70 (leadId: 673657, currentStatus: active) to topic "test-topic" [0] at offset 1685
+2023/07/03 15:20:37.163238 Delivered message #71 (leadId: 664282, currentStatus: approved) to topic "test-topic" [0] at offset 1686
+2023/07/03 15:20:37.186099 Sended message #72 (leadId: 663202, currentStatus: active) to topic "test-topic"
+2023/07/03 15:20:37.219290 Closing producer
+2023/07/03 15:20:37.219391 Delivered message #72 (leadId: 663202, currentStatus: active) to topic "test-topic" [0] at offset 1687
+2023/07/03 15:20:37.239529 Sended message #73 (leadId: 695219, currentStatus: close) to topic "test-topic"
+2023/07/03 15:20:37.239786 Sended message #74 (leadId: 641677, currentStatus: approved) to topic "test-topic"
+
+2023/07/03 15:20:27.610453 Created Consumer rdkafka#consumer-1
+2023/07/03 15:20:35.868410 Received message #0 (leadId: 634428, currentStatus: to issue) on topic "test-topic" [0] at offset 1615 CreateTime 2023-07-03 15:20:34.785 +0300 MSK
+2023/07/03 15:20:35.868461 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868543 Received message #1 (leadId: 609937, currentStatus: to issue) on topic "test-topic" [0] at offset 1616 CreateTime 2023-07-03 15:20:34.836 +0300 MSK
+2023/07/03 15:20:35.868551 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868578 Received message #2 (leadId: 628811, currentStatus: rejected) on topic "test-topic" [0] at offset 1617 CreateTime 2023-07-03 15:20:34.836 +0300 MSK
+2023/07/03 15:20:35.868583 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868606 Received message #3 (leadId: 614216, currentStatus: pending) on topic "test-topic" [0] at offset 1618 CreateTime 2023-07-03 15:20:34.888 +0300 MSK
+2023/07/03 15:20:35.868610 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868632 Received message #4 (leadId: 618329, currentStatus: rejected) on topic "test-topic" [0] at offset 1619 CreateTime 2023-07-03 15:20:34.933 +0300 MSK
+2023/07/03 15:20:35.868636 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868661 Received message #5 (leadId: 657674, currentStatus: approved) on topic "test-topic" [0] at offset 1620 CreateTime 2023-07-03 15:20:34.933 +0300 MSK
+2023/07/03 15:20:35.868667 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868687 Received message #6 (leadId: 618253, currentStatus: pending) on topic "test-topic" [0] at offset 1621 CreateTime 2023-07-03 15:20:34.987 +0300 MSK
+2023/07/03 15:20:35.868692 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868717 Received message #7 (leadId: 602613, currentStatus: pending) on topic "test-topic" [0] at offset 1622 CreateTime 2023-07-03 15:20:35.035 +0300 MSK
+2023/07/03 15:20:35.868722 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868741 Received message #8 (leadId: 618447, currentStatus: to issue) on topic "test-topic" [0] at offset 1623 CreateTime 2023-07-03 15:20:35.035 +0300 MSK
+2023/07/03 15:20:35.868746 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868768 Received message #9 (leadId: 632257, currentStatus: close) on topic "test-topic" [0] at offset 1624 CreateTime 2023-07-03 15:20:35.086 +0300 MSK
+2023/07/03 15:20:35.868773 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868793 Received message #10 (leadId: 693997, currentStatus: to issue) on topic "test-topic" [0] at offset 1625 CreateTime 2023-07-03 15:20:35.139 +0300 MSK
+2023/07/03 15:20:35.868797 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868830 Received message #11 (leadId: 698122, currentStatus: rejected) on topic "test-topic" [0] at offset 1626 CreateTime 2023-07-03 15:20:35.139 +0300 MSK
+2023/07/03 15:20:35.868838 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868863 Received message #12 (leadId: 669063, currentStatus: active) on topic "test-topic" [0] at offset 1627 CreateTime 2023-07-03 15:20:35.191 +0300 MSK
+2023/07/03 15:20:35.868869 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868888 Received message #13 (leadId: 661744, currentStatus: close) on topic "test-topic" [0] at offset 1628 CreateTime 2023-07-03 15:20:35.236 +0300 MSK
+2023/07/03 15:20:35.868892 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868911 Received message #14 (leadId: 603887, currentStatus: to issue) on topic "test-topic" [0] at offset 1629 CreateTime 2023-07-03 15:20:35.236 +0300 MSK
+2023/07/03 15:20:35.868915 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868934 Received message #15 (leadId: 633500, currentStatus: close) on topic "test-topic" [0] at offset 1630 CreateTime 2023-07-03 15:20:35.287 +0300 MSK
+2023/07/03 15:20:35.868938 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868960 Received message #16 (leadId: 678574, currentStatus: approved) on topic "test-topic" [0] at offset 1631 CreateTime 2023-07-03 15:20:35.333 +0300 MSK
+2023/07/03 15:20:35.868965 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.868984 Received message #17 (leadId: 631589, currentStatus: rejected) on topic "test-topic" [0] at offset 1632 CreateTime 2023-07-03 15:20:35.333 +0300 MSK
+2023/07/03 15:20:35.868991 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869010 Received message #18 (leadId: 609301, currentStatus: rejected) on topic "test-topic" [0] at offset 1633 CreateTime 2023-07-03 15:20:35.387 +0300 MSK
+2023/07/03 15:20:35.869015 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869034 Received message #19 (leadId: 614046, currentStatus: approved) on topic "test-topic" [0] at offset 1634 CreateTime 2023-07-03 15:20:35.441 +0300 MSK
+2023/07/03 15:20:35.869038 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869064 Received message #20 (leadId: 669444, currentStatus: close) on topic "test-topic" [0] at offset 1635 CreateTime 2023-07-03 15:20:35.441 +0300 MSK
+2023/07/03 15:20:35.869069 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869088 Received message #21 (leadId: 601175, currentStatus: active) on topic "test-topic" [0] at offset 1636 CreateTime 2023-07-03 15:20:35.484 +0300 MSK
+2023/07/03 15:20:35.869093 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869125 Received message #22 (leadId: 664745, currentStatus: approved) on topic "test-topic" [0] at offset 1637 CreateTime 2023-07-03 15:20:35.533 +0300 MSK
+2023/07/03 15:20:35.869132 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869152 Received message #23 (leadId: 654781, currentStatus: to issue) on topic "test-topic" [0] at offset 1638 CreateTime 2023-07-03 15:20:35.533 +0300 MSK
+2023/07/03 15:20:35.869157 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869175 Received message #24 (leadId: 691285, currentStatus: active) on topic "test-topic" [0] at offset 1639 CreateTime 2023-07-03 15:20:35.589 +0300 MSK
+2023/07/03 15:20:35.869179 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869211 Received message #25 (leadId: 667008, currentStatus: rejected) on topic "test-topic" [0] at offset 1640 CreateTime 2023-07-03 15:20:35.636 +0300 MSK
+2023/07/03 15:20:35.869216 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869236 Received message #26 (leadId: 642795, currentStatus: approved) on topic "test-topic" [0] at offset 1641 CreateTime 2023-07-03 15:20:35.636 +0300 MSK
+2023/07/03 15:20:35.869241 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869259 Received message #27 (leadId: 673705, currentStatus: to issue) on topic "test-topic" [0] at offset 1642 CreateTime 2023-07-03 15:20:35.686 +0300 MSK
+2023/07/03 15:20:35.869264 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869285 Received message #28 (leadId: 639773, currentStatus: approved) on topic "test-topic" [0] at offset 1643 CreateTime 2023-07-03 15:20:35.733 +0300 MSK
+2023/07/03 15:20:35.869293 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.869340 Received message #29 (leadId: 623330, currentStatus: rejected) on topic "test-topic" [0] at offset 1644 CreateTime 2023-07-03 15:20:35.733 +0300 MSK
+2023/07/03 15:20:35.869351 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.933349 Received message #30 (leadId: 631528, currentStatus: close) on topic "test-topic" [0] at offset 1645 CreateTime 2023-07-03 15:20:35.785 +0300 MSK
+2023/07/03 15:20:35.933365 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.933400 Received message #31 (leadId: 611553, currentStatus: to issue) on topic "test-topic" [0] at offset 1646 CreateTime 2023-07-03 15:20:35.835 +0300 MSK
+2023/07/03 15:20:35.933406 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:35.933433 Received message #32 (leadId: 630015, currentStatus: to issue) on topic "test-topic" [0] at offset 1647 CreateTime 2023-07-03 15:20:35.835 +0300 MSK
+2023/07/03 15:20:35.933438 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.007491 Received message #33 (leadId: 640821, currentStatus: approved) on topic "test-topic" [0] at offset 1648 CreateTime 2023-07-03 15:20:35.888 +0300 MSK
+2023/07/03 15:20:36.007511 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.029900 Received message #34 (leadId: 609298, currentStatus: active) on topic "test-topic" [0] at offset 1649 CreateTime 2023-07-03 15:20:35.934 +0300 MSK
+2023/07/03 15:20:36.029922 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.029970 Received message #35 (leadId: 698254, currentStatus: approved) on topic "test-topic" [0] at offset 1650 CreateTime 2023-07-03 15:20:35.935 +0300 MSK
+2023/07/03 15:20:36.029976 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.029998 Received message #36 (leadId: 681277, currentStatus: pending) on topic "test-topic" [0] at offset 1651 CreateTime 2023-07-03 15:20:35.987 +0300 MSK
+2023/07/03 15:20:36.030003 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.104899 Received message #37 (leadId: 696135, currentStatus: approved) on topic "test-topic" [0] at offset 1652 CreateTime 2023-07-03 15:20:36.039 +0300 MSK
+2023/07/03 15:20:36.104923 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.104959 Received message #38 (leadId: 641833, currentStatus: rejected) on topic "test-topic" [0] at offset 1653 CreateTime 2023-07-03 15:20:36.039 +0300 MSK
+2023/07/03 15:20:36.104995 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.152974 Received message #39 (leadId: 637161, currentStatus: pending) on topic "test-topic" [0] at offset 1654 CreateTime 2023-07-03 15:20:36.086 +0300 MSK
+2023/07/03 15:20:36.152998 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.205549 Received message #40 (leadId: 695142, currentStatus: approved) on topic "test-topic" [0] at offset 1655 CreateTime 2023-07-03 15:20:36.133 +0300 MSK
+2023/07/03 15:20:36.205571 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.205625 Received message #41 (leadId: 690032, currentStatus: approved) on topic "test-topic" [0] at offset 1656 CreateTime 2023-07-03 15:20:36.133 +0300 MSK
+2023/07/03 15:20:36.205640 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.252559 Received message #42 (leadId: 638372, currentStatus: to issue) on topic "test-topic" [0] at offset 1657 CreateTime 2023-07-03 15:20:36.187 +0300 MSK
+2023/07/03 15:20:36.252581 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.308639 Received message #43 (leadId: 644057, currentStatus: close) on topic "test-topic" [0] at offset 1658 CreateTime 2023-07-03 15:20:36.243 +0300 MSK
+2023/07/03 15:20:36.308663 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.308704 Received message #44 (leadId: 679729, currentStatus: approved) on topic "test-topic" [0] at offset 1659 CreateTime 2023-07-03 15:20:36.243 +0300 MSK
+2023/07/03 15:20:36.308710 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.355808 Received message #45 (leadId: 609672, currentStatus: rejected) on topic "test-topic" [0] at offset 1660 CreateTime 2023-07-03 15:20:36.286 +0300 MSK
+2023/07/03 15:20:36.355829 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.455631 Received message #46 (leadId: 621030, currentStatus: rejected) on topic "test-topic" [0] at offset 1661 CreateTime 2023-07-03 15:20:36.339 +0300 MSK
+2023/07/03 15:20:36.455648 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.455685 Received message #47 (leadId: 630817, currentStatus: active) on topic "test-topic" [0] at offset 1662 CreateTime 2023-07-03 15:20:36.339 +0300 MSK
+2023/07/03 15:20:36.455691 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.476905 Received message #48 (leadId: 667144, currentStatus: pending) on topic "test-topic" [0] at offset 1663 CreateTime 2023-07-03 15:20:36.383 +0300 MSK
+2023/07/03 15:20:36.476927 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.476962 Received message #49 (leadId: 609060, currentStatus: rejected) on topic "test-topic" [0] at offset 1664 CreateTime 2023-07-03 15:20:36.433 +0300 MSK
+2023/07/03 15:20:36.476967 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.476990 Received message #50 (leadId: 676365, currentStatus: to issue) on topic "test-topic" [0] at offset 1665 CreateTime 2023-07-03 15:20:36.433 +0300 MSK
+2023/07/03 15:20:36.476995 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.557530 Received message #51 (leadId: 601716, currentStatus: pending) on topic "test-topic" [0] at offset 1666 CreateTime 2023-07-03 15:20:36.488 +0300 MSK
+2023/07/03 15:20:36.560584 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.672301 Received message #52 (leadId: 662700, currentStatus: close) on topic "test-topic" [0] at offset 1667 CreateTime 2023-07-03 15:20:36.536 +0300 MSK
+2023/07/03 15:20:36.672323 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.672388 Received message #53 (leadId: 624358, currentStatus: close) on topic "test-topic" [0] at offset 1668 CreateTime 2023-07-03 15:20:36.536 +0300 MSK
+2023/07/03 15:20:36.672400 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.724339 Received message #54 (leadId: 697412, currentStatus: pending) on topic "test-topic" [0] at offset 1669 CreateTime 2023-07-03 15:20:36.586 +0300 MSK
+2023/07/03 15:20:36.724363 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.724403 Received message #55 (leadId: 681270, currentStatus: pending) on topic "test-topic" [0] at offset 1670 CreateTime 2023-07-03 15:20:36.639 +0300 MSK
+2023/07/03 15:20:36.724408 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.724449 Received message #56 (leadId: 660903, currentStatus: active) on topic "test-topic" [0] at offset 1671 CreateTime 2023-07-03 15:20:36.639 +0300 MSK
+2023/07/03 15:20:36.724455 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.756723 Received message #57 (leadId: 662642, currentStatus: pending) on topic "test-topic" [0] at offset 1672 CreateTime 2023-07-03 15:20:36.683 +0300 MSK
+2023/07/03 15:20:36.756746 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.805214 Received message #58 (leadId: 643967, currentStatus: active) on topic "test-topic" [0] at offset 1673 CreateTime 2023-07-03 15:20:36.734 +0300 MSK
+2023/07/03 15:20:36.805235 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.805271 Received message #59 (leadId: 629780, currentStatus: to issue) on topic "test-topic" [0] at offset 1674 CreateTime 2023-07-03 15:20:36.734 +0300 MSK
+2023/07/03 15:20:36.805277 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.853377 Received message #60 (leadId: 604409, currentStatus: close) on topic "test-topic" [0] at offset 1675 CreateTime 2023-07-03 15:20:36.789 +0300 MSK
+2023/07/03 15:20:36.853404 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.900634 Received message #61 (leadId: 642673, currentStatus: rejected) on topic "test-topic" [0] at offset 1676 CreateTime 2023-07-03 15:20:36.833 +0300 MSK
+2023/07/03 15:20:36.900656 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.900719 Received message #62 (leadId: 696559, currentStatus: active) on topic "test-topic" [0] at offset 1677 CreateTime 2023-07-03 15:20:36.834 +0300 MSK
+2023/07/03 15:20:36.900728 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.964982 Received message #63 (leadId: 684375, currentStatus: rejected) on topic "test-topic" [0] at offset 1678 CreateTime 2023-07-03 15:20:36.883 +0300 MSK
+2023/07/03 15:20:36.965004 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.980839 Received message #64 (leadId: 644244, currentStatus: to issue) on topic "test-topic" [0] at offset 1679 CreateTime 2023-07-03 15:20:36.939 +0300 MSK
+2023/07/03 15:20:36.980861 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:36.980895 Received message #65 (leadId: 654335, currentStatus: approved) on topic "test-topic" [0] at offset 1680 CreateTime 2023-07-03 15:20:36.939 +0300 MSK
+2023/07/03 15:20:36.980901 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:37.048495 Received message #66 (leadId: 643841, currentStatus: approved) on topic "test-topic" [0] at offset 1681 CreateTime 2023-07-03 15:20:36.984 +0300 MSK
+2023/07/03 15:20:37.048517 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:37.108492 Received message #67 (leadId: 637630, currentStatus: pending) on topic "test-topic" [0] at offset 1682 CreateTime 2023-07-03 15:20:37.032 +0300 MSK
+2023/07/03 15:20:37.108514 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:37.108551 Received message #68 (leadId: 693210, currentStatus: to issue) on topic "test-topic" [0] at offset 1683 CreateTime 2023-07-03 15:20:37.038 +0300 MSK
+2023/07/03 15:20:37.108581 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:37.157818 Received message #69 (leadId: 654347, currentStatus: pending) on topic "test-topic" [0] at offset 1684 CreateTime 2023-07-03 15:20:37.082 +0300 MSK
+2023/07/03 15:20:37.157840 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:37.204827 Received message #70 (leadId: 673657, currentStatus: active) on topic "test-topic" [0] at offset 1685 CreateTime 2023-07-03 15:20:37.133 +0300 MSK
+2023/07/03 15:20:37.204850 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:37.204889 Received message #71 (leadId: 664282, currentStatus: approved) on topic "test-topic" [0] at offset 1686 CreateTime 2023-07-03 15:20:37.133 +0300 MSK
+2023/07/03 15:20:37.204895 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:37.264386 Received message #72 (leadId: 663202, currentStatus: active) on topic "test-topic" [0] at offset 1687 CreateTime 2023-07-03 15:20:37.186 +0300 MSK
+2023/07/03 15:20:37.264408 Headers: [myTestHeader="header values are binary"]
+2023/07/03 15:20:37.627543 Ignored OffsetsCommitted (<nil>, [test-topic[0]@1688])
+2023/07/03 15:20:44.263591 Caught signal interrupt: terminating
+2023/07/03 15:20:44.263619 Closing consumer
+
+NATS:
+
+2023/07/03 15:00:53.877664 Published msg (leadId: 646047, currentStatus: to issue) with sequence number 1192 on stream "test"
+2023/07/03 15:00:53.902465 Published msg (leadId: 607247, currentStatus: close) with sequence number 1193 on stream "test"
+2023/07/03 15:00:53.942888 Published msg (leadId: 680289, currentStatus: to issue) with sequence number 1194 on stream "test"
+2023/07/03 15:00:53.961849 Published msg (leadId: 631655, currentStatus: close) with sequence number 1195 on stream "test"
+2023/07/03 15:00:54.000708 Published msg (leadId: 667445, currentStatus: rejected) with sequence number 1196 on stream "test"
+2023/07/03 15:00:54.018078 Published msg (leadId: 667445, currentStatus: rejected) with sequence number 1197 on stream "test"
+2023/07/03 15:00:54.103094 Published msg (leadId: 699663, currentStatus: to issue) with sequence number 1198 on stream "test"
+2023/07/03 15:00:54.111568 Published msg (leadId: 632192, currentStatus: close) with sequence number 1199 on stream "test"
+2023/07/03 15:00:54.120831 Published msg (leadId: 698259, currentStatus: to issue) with sequence number 1200 on stream "test"
+2023/07/03 15:00:54.198878 Published msg (leadId: 616043, currentStatus: rejected) with sequence number 1201 on stream "test"
+2023/07/03 15:00:54.206351 Published msg (leadId: 697311, currentStatus: approved) with sequence number 1202 on stream "test"
+2023/07/03 15:00:54.216693 Published msg (leadId: 670526, currentStatus: rejected) with sequence number 1203 on stream "test"
+2023/07/03 15:00:54.311081 Published msg (leadId: 696137, currentStatus: close) with sequence number 1204 on stream "test"
+2023/07/03 15:00:54.320848 Published msg (leadId: 628056, currentStatus: to issue) with sequence number 1205 on stream "test"
+2023/07/03 15:00:54.340554 Published msg (leadId: 616837, currentStatus: pending) with sequence number 1206 on stream "test"
+2023/07/03 15:00:54.402732 Published msg (leadId: 660742, currentStatus: pending) with sequence number 1207 on stream "test"
+2023/07/03 15:00:54.411595 Published msg (leadId: 638928, currentStatus: approved) with sequence number 1208 on stream "test"
+2023/07/03 15:00:54.422556 Published msg (leadId: 690274, currentStatus: active) with sequence number 1209 on stream "test"
+2023/07/03 15:00:54.514299 Published msg (leadId: 674005, currentStatus: pending) with sequence number 1210 on stream "test"
+2023/07/03 15:00:54.525658 Published msg (leadId: 610742, currentStatus: close) with sequence number 1211 on stream "test"
+2023/07/03 15:00:54.543157 Published msg (leadId: 659508, currentStatus: approved) with sequence number 1212 on stream "test"
+2023/07/03 15:00:54.606671 Published msg (leadId: 671601, currentStatus: approved) with sequence number 1213 on stream "test"
+2023/07/03 15:00:54.616148 Published msg (leadId: 636563, currentStatus: close) with sequence number 1214 on stream "test"
+2023/07/03 15:00:54.631416 Published msg (leadId: 679892, currentStatus: rejected) with sequence number 1215 on stream "test"
+2023/07/03 15:00:54.722980 Published msg (leadId: 669573, currentStatus: to issue) with sequence number 1216 on stream "test"
+2023/07/03 15:00:54.734403 Published msg (leadId: 697658, currentStatus: approved) with sequence number 1217 on stream "test"
+2023/07/03 15:00:54.745882 Published msg (leadId: 641254, currentStatus: pending) with sequence number 1218 on stream "test"
+
+2023/07/03 15:00:44.152109 Listening on [test], queue group [test-consumer]
+2023/07/03 15:00:53.895085 [#1] Received msg (leadId: 646047, currentStatus: to issue) with metadata $JS.ACK.test.test-consumer.1.1192.1192.1688385653987320749.0
+2023/07/03 15:00:53.902465 [#2] Received msg (leadId: 607247, currentStatus: close) with metadata $JS.ACK.test.test-consumer.1.1193.1193.1688385654007672944.0
+2023/07/03 15:00:53.955636 [#3] Received msg (leadId: 680289, currentStatus: to issue) with metadata $JS.ACK.test.test-consumer.1.1194.1194.1688385654051135218.0
+2023/07/03 15:00:53.961849 [#4] Received msg (leadId: 631655, currentStatus: close) with metadata $JS.ACK.test.test-consumer.1.1195.1195.1688385654067179234.0
+2023/07/03 15:00:54.010480 [#5] Received msg (leadId: 667445, currentStatus: rejected) with metadata $JS.ACK.test.test-consumer.1.1196.1196.1688385654111163906.0
+2023/07/03 15:00:54.018671 [#6] Received msg (leadId: 667445, currentStatus: rejected) with metadata $JS.ACK.test.test-consumer.1.1197.1197.1688385654123107544.0
+2023/07/03 15:00:54.103237 [#7] Received msg (leadId: 699663, currentStatus: to issue) with metadata $JS.ACK.test.test-consumer.1.1198.1198.1688385654175407072.0
+2023/07/03 15:00:54.111568 [#8] Received msg (leadId: 632192, currentStatus: close) with metadata $JS.ACK.test.test-consumer.1.1199.1199.1688385654215219865.0
+2023/07/03 15:00:54.128066 [#9] Received msg (leadId: 698259, currentStatus: to issue) with metadata $JS.ACK.test.test-consumer.1.1200.1200.1688385654230953584.0
+2023/07/03 15:00:54.199128 [#10] Received msg (leadId: 616043, currentStatus: rejected) with metadata $JS.ACK.test.test-consumer.1.1201.1201.1688385654291205371.0
+2023/07/03 15:00:54.206792 [#11] Received msg (leadId: 697311, currentStatus: approved) with metadata $JS.ACK.test.test-consumer.1.1202.1202.1688385654311333366.0
+2023/07/03 15:00:54.223420 [#12] Received msg (leadId: 670526, currentStatus: rejected) with metadata $JS.ACK.test.test-consumer.1.1203.1203.1688385654327328783.0
+2023/07/03 15:00:54.311081 [#13] Received msg (leadId: 696137, currentStatus: close) with metadata $JS.ACK.test.test-consumer.1.1204.1204.1688385654387294971.0
+2023/07/03 15:00:54.330615 [#14] Received msg (leadId: 628056, currentStatus: to issue) with metadata $JS.ACK.test.test-consumer.1.1205.1205.1688385654431180343.0
+2023/07/03 15:00:54.340554 [#15] Received msg (leadId: 616837, currentStatus: pending) with metadata $JS.ACK.test.test-consumer.1.1206.1206.1688385654443236281.0
+2023/07/03 15:00:54.402732 [#16] Received msg (leadId: 660742, currentStatus: pending) with metadata $JS.ACK.test.test-consumer.1.1207.1207.1688385654503361468.0
+2023/07/03 15:00:54.412564 [#17] Received msg (leadId: 638928, currentStatus: approved) with metadata $JS.ACK.test.test-consumer.1.1208.1208.1688385654515276507.0
+2023/07/03 15:00:54.427980 [#18] Received msg (leadId: 690274, currentStatus: active) with metadata $JS.ACK.test.test-consumer.1.1209.1209.1688385654531134124.0
+2023/07/03 15:00:54.514299 [#19] Received msg (leadId: 674005, currentStatus: pending) with metadata $JS.ACK.test.test-consumer.1.1210.1210.1688385654587408932.0
+2023/07/03 15:00:54.534222 [#20] Received msg (leadId: 610742, currentStatus: close) with metadata $JS.ACK.test.test-consumer.1.1211.1211.1688385654635265083.0
+2023/07/03 15:00:54.544009 [#21] Received msg (leadId: 659508, currentStatus: approved) with metadata $JS.ACK.test.test-consumer.1.1212.1212.1688385654647403220.0
+2023/07/03 15:00:54.606671 [#22] Received msg (leadId: 671601, currentStatus: approved) with metadata $JS.ACK.test.test-consumer.1.1213.1213.1688385654707434808.0
+2023/07/03 15:00:54.616765 [#23] Received msg (leadId: 636563, currentStatus: close) with metadata $JS.ACK.test.test-consumer.1.1214.1214.1688385654719189347.0
+2023/07/03 15:00:54.635387 [#24] Received msg (leadId: 679892, currentStatus: rejected) with metadata $JS.ACK.test.test-consumer.1.1215.1215.1688385654739185443.0
+2023/07/03 15:00:54.722980 [#25] Received msg (leadId: 669573, currentStatus: to issue) with metadata $JS.ACK.test.test-consumer.1.1216.1216.1688385654795348152.0
+2023/07/03 15:00:54.734916 [#26] Received msg (leadId: 697658, currentStatus: approved) with metadata $JS.ACK.test.test-consumer.1.1217.1217.1688385654835281944.0
+2023/07/03 15:00:54.753486 [#27] Received msg (leadId: 641254, currentStatus: pending) with metadata $JS.ACK.test.test-consumer.1.1218.1218.1688385654855206641.0
+2023/07/03 15:00:54.821156 [#28] Received msg (leadId: 630900, currentStatus: to issue) with metadata $JS.ACK.test.test-consumer.1.1219.1219.1688385654923386387.0
+2023/07/03 15:00:54.823918 [#29] Received msg (leadId: 640543, currentStatus: active) with metadata $JS.ACK.test.test-consumer.1.1220.1220.1688385654923608685.0
